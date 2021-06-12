@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://cursivewriting.github.io/"
+baseURL = "https://aggarwal-neha.github.io/"
 title = "Cursive Writing"
 theme = "bigspring"
 # post pagination
