@@ -29,6 +29,6 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          external_repository: cursivewriting/cursivewriting.github.io
+          external_repository: aggarwal-neha/aggarwal-neha.github.io
           publish_dir: ./public
           publish_branch: main
